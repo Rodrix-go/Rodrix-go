@@ -8,3 +8,5 @@
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrix-go&theme=dracula)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrix-go&layout=compact&langs_count=16&theme=dracula)
+
+ ![Snake animation](https://github.com/rodrix-go/rodrix-go/blob/output/github-contribution-grid-snake.svg)
